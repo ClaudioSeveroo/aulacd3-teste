@@ -1,4 +1,4 @@
-# PCD - Aula 03
-Arquivos da Aula 03: Colab, GitHub e Git.
+# Repositório para PCD
+Aqui será o repositório para arquivos de códigos efetuado na matéria de Programação para Ciência de Dados
 ## Autor
 Claudio
